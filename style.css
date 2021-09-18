@@ -1,0 +1,26 @@
+* {
+ background-color: black;
+ text-align: center;
+ color: white;
+}
+
+header img {
+ width: 400px;
+}
+
+.mainVideo {
+ margin: auto;
+ width: 600px;
+ font-size: 10px;
+ text-align: center;
+}
+
+.mainVideo h1 {
+ margin-left: -100px;
+}
+
+h4 {
+ text-align: left;
+ padding: 20px 50px;
+}
+
